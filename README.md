@@ -1,9 +1,5 @@
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Brice" alt="Typing SVG" />
-  </a>
-</p>
-<h3>A passionate full-stack developer who loves to build new things.</h3>
+<h1 align="center">Hello 👋, I'm Brice</h1>
+<h3 align="center">A passionate full-stack developer who loves to build new things.</h3>
 
 - ⚡ Fun fact **I love cooking healthy dishes inspired by my Asian trips.**
 
@@ -51,9 +47,9 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
-
-
-
+<br>
+<br>
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E1C48&background=F7F700&center=true&vCenter=true&width=435&lines=The+future+looks+bright!)](https://git.io/typing-svg)
 
 <!--
