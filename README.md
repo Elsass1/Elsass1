@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brice</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Brice)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate full-stack developer who loves to build new things.</h3>
 
 - ⚡ Fun fact **I love cooking healthy dishes inspired by my Asian trips.**
