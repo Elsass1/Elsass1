@@ -52,6 +52,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E1C48&background=F7F700&center=true&vCenter=true&width=435&lines=The+future+looks+bright!)](https://git.io/typing-svg)
 
 <!--
