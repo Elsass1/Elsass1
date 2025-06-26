@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elsass1/Elsass1/main/banner.png" alt="Banner" width="1000" />
+</p>
+
+
 <h1 align="center">Hello 👋, I'm Brice</h1>
 <h3 align="center">A passionate full-stack developer who loves to build new things.</h3>
 
