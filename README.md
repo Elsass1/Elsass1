@@ -1,9 +1,9 @@
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C++I'm+Brice" alt="Typing SVG" />
   </a>
 </p>
-<h3 align="center">A passionate full-stack developer who loves to build new things.</h3>
+<h3>A passionate full-stack developer who loves to build new things.</h3>
 
 - ⚡ Fun fact **I love cooking healthy dishes inspired by my Asian trips.**
 
