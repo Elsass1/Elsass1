@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brice</h1>
 <h3 align="center">A passionate full-stack developer who loves to build new things.</h3>
 
-- ⚡ Fun fact **I love to cook healhty dishes inspired by my trips in Asia.**
+- ⚡ Fun fact **I love cooking healthy dishes inspired by my Asian trips.**
+
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+  <p>
+    My coding journey began with a curiosity for how websites and applications work. I started by learning the basics of HTML and CSS, which quickly grew into a passion for full-stack development. Over the years, I have honed my skills in JavaScript, TypeScript, and frameworks like React, Angular, and Next.js. I enjoy solving complex problems, building scalable applications, and continuously learning new technologies. My goal is to create impactful software solutions that make a difference. 
+  </p>
+</details>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
