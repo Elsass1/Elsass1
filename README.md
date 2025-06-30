@@ -29,6 +29,38 @@ My approach to coding is simple:
   </p>
 </details>
 
+<br>
+
+<details>
+  <summary><h3>Past projects</h3></summary>
+  
+  <!-- Anim & Forme Project -->
+  <h4>🤝 Anim & Forme</h4>
+  <p align="center">
+    <a href="https://www.animetforme.com/" target="_blank">
+      <img src="https://github.com/Elsass1/Elsass1/blob/main/animetforme.gif" alt="Anim & Forme GIF" width="600" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.animetforme.com/" target="_blank">Visit Anim & Forme</a>
+  </p>
+  
+  <br>
+  
+  <!-- Flood Watch Project -->
+  <h4>🌧️ Flood Watch</h4>
+  <p align="center">
+    <a href="https://www.floodwatch.center/" target="_blank">
+      <img src="https://github.com/Elsass1/Elsass1/blob/main/project_floodwatch.gif" alt="Flood Watch GIF" width="600" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.floodwatch.center/" target="_blank">Visit Flood Watch</a>
+  </p>
+
+  <br>
+</details>
+
 <p align="center">
   <a href="https://linkedin.com/in/frommbrice" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
