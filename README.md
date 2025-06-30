@@ -58,12 +58,16 @@ My approach to coding is simple:
   <br>
 </details>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/frommbrice" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://medium.com/@frommbrice" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+  <a href="https://www.codebybrice.com/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-000000?style=for-the-badge" alt="Website Badge" />
   </a>
 </p>
 
