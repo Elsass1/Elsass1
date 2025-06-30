@@ -14,7 +14,18 @@ A passionate full-stack developer dedicated to crafting innovative and scalable 
 <details>
   <summary><h3>My Coding Journey</h3></summary>
   <p>
-    My coding journey began with a curiosity for how websites and applications work. I started by learning the basics of HTML and CSS, which quickly grew into a passion for full-stack development. Over the years, I have honed my skills in JavaScript, TypeScript, and frameworks like React, Angular, and Next.js. I enjoy solving complex problems, building scalable applications, and continuously learning new technologies. My goal is to create impactful software solutions that make a difference. 
+  My coding journey began when I realized how code could simplify my work in global sales and marketing. Although my schedule limited my time, I started learning JavaScript, CSS, and HTML in my spare moments. <br><br>
+  When Covid-19 forced my departure from South Korea, I seized the opportunity to fully immerse myself in coding. I deepened my skills in JavaScript, TypeScript, and frameworks like React and Next.js, rediscovering my childhood love for building through full-   stack development.
+  
+  I thrive on collaboration, working with other engineers to brainstorm and refine ideas into optimal solutions. 
+
+My approach to coding is simple:
+- Start with the user needs and build backwards.
+- Spend 95% of my time defining the problem and 5% coding the solution.
+
+<br>
+
+
   </p>
 </details>
 
@@ -39,6 +50,7 @@ A passionate full-stack developer dedicated to crafting innovative and scalable 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand Badge" />
   
   <!-- Design Tools -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
@@ -64,6 +76,8 @@ A passionate full-stack developer dedicated to crafting innovative and scalable 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/SEO-008000?style=for-the-badge&logo=google&logoColor=white" alt="SEO Badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Badge" />
+  <img src="https://img.shields.io/badge/Clerk-3E8BFF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Badge" />
 </p>
 
 ---
