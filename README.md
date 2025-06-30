@@ -12,7 +12,7 @@ A passionate full-stack developer dedicated to crafting innovative and scalable 
 - ⚡ **Fun fact:** I love experimenting with healthy dishes inspired by my Asian trips, just like I experiment with code to bring ideas to life.
 
 <details>
-  <summary><h3>My Coding Journey</h3></summary>
+  <summary><h3>💻 My coding journey</h3></summary>
   <p>
   My coding journey began when I realized how code could simplify my work in global sales and marketing. Although my schedule limited my time, I started learning JavaScript, CSS, and HTML in my spare moments. <br><br>
   When Covid-19 forced my departure from South Korea, I seized the opportunity to fully immerse myself in coding. I deepened my skills in JavaScript, TypeScript, and frameworks like React and Next.js, rediscovering my childhood love for building through full-stack development.
@@ -29,7 +29,7 @@ My approach to coding is simple:
 </details>
 
 <details>
-  <summary><h3>Past projects</h3></summary>
+  <summary><h3>📂 Past projects</h3></summary>
   
   <!-- Anim & Forme Project -->
   <h4>🤝 Anim & Forme</h4>
@@ -68,7 +68,7 @@ My approach to coding is simple:
 </p>
 
 ---
-<h3>🛠️ Languages and Tools</h3> <br>
+<h3>🛠️ Languages and tools</h3> <br>
 <p align="center">
   <!-- Development Languages and Frameworks -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
